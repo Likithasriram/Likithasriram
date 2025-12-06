@@ -58,20 +58,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Likithasriram&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likithasriram&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 📧 Email: **likithasriramp@gmail.com**  
-💼 LinkedIn: *Add your LinkedIn URL here*  
-📂 Portfolio (Coming Soon)
+💼 LinkedIn:** www.linkedin.com/in/likitha-sriram1220  **
 
----
+
+
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my projects or collaborate with me.*  
 
