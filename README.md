@@ -55,7 +55,8 @@
 📌 Accident severity analysis, KPI validation using SQL  
 📌 Machine Learning model for severity prediction  
 🔗 **Repo:** [Road Accident Analysis](https://github.com/Likithasriram/Road_Accident_Analysis)
----
+
+
 
 ## 🏅 Certifications
 
