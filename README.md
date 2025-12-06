@@ -55,14 +55,19 @@
 📌 Accident severity analysis, KPI validation using SQL  
 📌 Machine Learning model for severity prediction  
 🔗 **Repo:** [Road Accident Analysis](https://github.com/Likithasriram/Road_Accident_Analysis)
+---
 
+## 🏅 Certifications
+
+- Microsoft Power BI Certification (2024)
+- Google Data Analytics Professional Certificate
+- Python for Data Science – Online Training Program
+- SQL for Data Analysis – Online Course
 ---
 
 ## 🌐 Connect With Me  
 📧 Email: **likithasriramp@gmail.com**  
 💼 LinkedIn:** www.linkedin.com/in/likitha-sriram1220  **
-
-
 
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my projects or collaborate with me.*  
