@@ -1,13 +1,10 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Likithasriram/Likithasriram/blob/main/assets/profile_banner.png" width="800"/>
-</p>
 
-<h1 align="center">👋 Hi, I'm Likhitha P</h1>
+
+<h1 align="center">👋 Hi, I'm Likhitha </h1>
 
 <p align="center">
   <b>Data Analyst | Power BI | SQL | Python | Machine Learning</b><br>
-  Passionate about transforming raw data into powerful insights & business decisions.
+  Turning complex datasets into clear insights and data-driven decisions
 </p>
 
 ---
