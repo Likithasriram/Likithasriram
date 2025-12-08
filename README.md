@@ -56,12 +56,11 @@
 📌 Machine Learning model for severity prediction  
 🔗 **Repo:** [Road Accident Analysis](https://github.com/Likithasriram/Road_Accident_Analysis)
 
-###⭐ **4. HR Analytics & Employee Attrition Prediction (SQL + Python + ML)
+⭐ 4. HR Analytics & Employee Attrition Prediction (SQL + Python + ML)
 
-📌 End-to-end HR analytics project combining SQL business queries, EDA, and Machine Learning to predict employee attrition.
-📌 Includes 20+ HR SQL queries for workforce insights, compensation analysis, and attrition KPIs.
-📌 Built ML pipeline (Logistic Regression & Random Forest) with ROC-AUC model selection and feature importance analysis.
-
+📌 End-to-end HR analytics project combining SQL business queries, EDA, and Machine Learning to predict employee attrition
+📌 Includes 20+ SQL queries for workforce insights, compensation analysis, and key attrition KPIs
+📌 Built ML pipeline (Logistic Regression & Random Forest) with ROC-AUC model selection and feature importance analysis
 🔗 Repo: HR Analytics Project
 
 ## 🏅 Certifications
