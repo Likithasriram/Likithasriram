@@ -18,20 +18,33 @@
 
 ---
 
-## 🛠 Tech Stack  
-### **Data Analytics**
-- Power BI • Power Query • DAX  
-- SQL (Joins, Window Functions, Aggregations)  
-- Excel (Pivot Tables, Functions, Cleaning)
+## 🛠 Tech Stack
 
-### **Programming**
-- Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
+### 📊 Data Analytics & BI
+- Power BI (Dashboarding, KPI Design, Data Modeling)  
+- Power Query (Data Cleaning & Transformation)  
+- DAX (Advanced Measures, Time Intelligence)  
+- SQL (Joins, Window Functions, Aggregations, Analytical Queries)  
+- Excel (Pivot Tables, Data Cleaning, Advanced Functions)  
 
-### **Machine Learning**
-- Regression • Classification • Time Series (ARIMA, LSTM)
+### 🐍 Programming & Data Analysis
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Data Cleaning, EDA, and Feature Engineering  
 
-### **Other**
-- Streamlit • Git & GitHub • Jupyter Notebook  
+### 🤖 Machine Learning & Forecasting
+- Regression & Classification Models  
+- Time-Series Forecasting (ARIMA, SARIMA, LSTM)  
+
+### 📈 Advanced Analytics Techniques
+- A/B Testing & Hypothesis Testing  
+- Funnel Analysis  
+- Cohort Analysis  
+- KPI & Metric Design  
+
+### ⚙️ Tools & Workflow
+- Streamlit (Interactive Dashboards)  
+- Git & GitHub (Version Control)  
+- Jupyter Notebook (Analysis & Prototyping)k  
 
 ---
 
